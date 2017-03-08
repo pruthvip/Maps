@@ -1,0 +1,9 @@
+{
+    compact: true,
+    comments: false,
+    minified: true,
+    presets: [
+        ['es2015', {'modules': false}],
+        'react'
+    ]
+}

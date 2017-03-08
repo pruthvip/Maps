@@ -1,0 +1,21 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+
+body {
+    background: #f7f7f7;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+/*
+    utilities css
+*/
+
+.map {
+    height: 75vh;
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 800px;
+}
